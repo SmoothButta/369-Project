@@ -16,6 +16,7 @@ Group messaging
 The goal is to ensure all features work correctly in a web environment before deployment.
 
   -Objectives-
+  
 Meeting scheduling
 Joining meetings
 Sending messages in group chat
@@ -23,6 +24,7 @@ Mentioning users (@username)
 Receiving and responding to mentions
 
  -Test Environment-
+ 
 Platform: GrabbDocs on a web browser (Chrome) 
 Tool: Selenium
 Issue Tracking: Jira
